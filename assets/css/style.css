@@ -2,14 +2,6 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
 }
-
-body div{
-    transition: 1s ease-in transform;
-}
-
-body div:hover, div:active{
-    transform: scale(1.2,1.2);
-}
 a {
   color: #e03a3c;
   text-decoration: none;
