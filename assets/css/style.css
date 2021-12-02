@@ -1,4 +1,4 @@
-CSS *{
+*{
 margin:0;
 color:white;
 }
@@ -7,7 +7,7 @@ cursor:pointer;
 }
 /Properties for Nav-bar/
 .navbar{
-display:flex;
+display:block;
 top:0;
 height:10vh;
 justify-content:space-between;
